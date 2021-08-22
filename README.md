@@ -18,5 +18,5 @@
 - 🔭 I’m currently working on a new iOS app for photo templates with my friend.
 - 🌱 I’m currently learning Machine learning. 
 - 🤔 I’m looking for help with getting internship.
-- 💬 Ask me about Android Dev and Java.
+- 💬 Ask me about Java.
 - ⚡ Fun fact: Huge tech nerd. 
