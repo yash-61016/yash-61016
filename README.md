@@ -16,7 +16,6 @@
 🎓 I’m a International student in 🇬🇧 pursuing my Bachelors in Computer Science. </br>
 👨‍💻  I am passionate about iOS Dev, Android Dev & I enjoy learning new things. </br>
 - 🔭 I’m currently working on a new iOS app for photo templates with my friend.
-- 🌱 I’m currently learning Machine learning. 
-- 🤔 I’m looking for help with getting internship.
+- 🌱 I’m currently learning Flutter.
 - 💬 Ask me about Java.
 - ⚡ Fun fact: Huge tech nerd. 
