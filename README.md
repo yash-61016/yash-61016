@@ -17,7 +17,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me 🚀
 - 🎓 I’m a International student in 🇬🇧 pursuing my Bachelors in Computer Science. </br>
 - 👨‍💻  I am passionate about mobile app dev & I enjoy learning new things. </br>
-- 🔭 I’m currently working on a new cross platform app for photo templates with my friend.
 - 🌱 I’m currently learning Flutter.
 - 💷 I'm on a placement as a Junior Software Developer where I mainly do web dev.
 - 💬 Ask me about Java.
