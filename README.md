@@ -14,8 +14,7 @@
 
 <br />
 
-### <img src="https://user-images.githubusercontent.com/73232849/172929710-cc48ccdb-5975-4bd7-af3b-424947975a7b.gif" width="45px"> 
-About Me 🚀
+### About Me 🚀
 - 🎓 I’m a International student in 🇬🇧 pursuing my Bachelors in Computer Science. </br>
 - 👨‍💻  I am passionate about mobile app dev & I enjoy learning new things. </br>
 - 🌱 I’m currently learning Flutter.
