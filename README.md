@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Yash!
+## Hey 👋 , I'm Yash!
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
@@ -14,7 +14,8 @@
 
 <br />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me 🚀
+### <img src="https://user-images.githubusercontent.com/73232849/172929710-cc48ccdb-5975-4bd7-af3b-424947975a7b.gif" width="45px"> 
+About Me 🚀
 - 🎓 I’m a International student in 🇬🇧 pursuing my Bachelors in Computer Science. </br>
 - 👨‍💻  I am passionate about mobile app dev & I enjoy learning new things. </br>
 - 🌱 I’m currently learning Flutter.
@@ -41,12 +42,12 @@
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+### My Github Stats:
 
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-61016&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash-61016&theme=dark)](https://git.io/streak-stats)
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+### Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
