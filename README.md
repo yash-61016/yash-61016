@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Flutter.
 - 💷 I'm on a placement as a Junior Software Developer where I mainly do web dev.
 - 💬 Ask me about Java.
-- ⚡ Fun fact: Huge tech nerd. 
+- ⚡ Fun fact: Huge tech enthusiast. 
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
