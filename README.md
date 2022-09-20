@@ -40,10 +40,15 @@
 ---
 ### My Github Stats:
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=yash-61016&style=flat-square&color=00998c">
+</a>
+
 ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash-61016&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash-61016&theme=dark)](https://git.io/streak-stats)
 
 ### Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
+
 
