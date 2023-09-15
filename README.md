@@ -14,9 +14,8 @@
 ### About Me 🚀
 - 🎓 I’m a International student in 🇬🇧 pursuing my Bachelors in Computer Science. </br>
 - 👨‍💻  I am passionate about mobile app dev & I enjoy learning new things. </br>
-- 🌱 I’m currently learning Flutter.
-- 💷 I'm on a placement as a Junior Software Developer where I mainly do web dev.
-- 💬 Ask me about Java.
+- 🌱 I’m currently exploring Flutter.
+- 💬 Ask me about Vue3.
 - ⚡ Fun fact: Huge tech enthusiast. 
 
 ---
